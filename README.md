@@ -1,9 +1,10 @@
-# Hey 👋 I'm Gianluca
+# Hey 👋 I'm Gianluca 
 
 💼 VP in Risk & Governance @ State Street  
 🤖 Exploring **AI-driven Risk Management**  
 📊 Turning risk data into decision systems  
 
+mailto: rabuazzo@sloan.mit.edu
 ---
 
 ## ⚡ What I Do
